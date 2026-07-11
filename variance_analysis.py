@@ -3,7 +3,7 @@
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv(r"C:\Users\User\Documents\Python Projects\Variance Analysis\budget_vs_actual_2025.csv")
+df = pd.read_csv(r"C:\Users\User\Documents\Python Projects\Variance Analysis\Data\budget_vs_actual_2025.csv")
 
 
 # Variance by monetary value
